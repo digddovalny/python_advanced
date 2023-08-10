@@ -1,0 +1,1 @@
+[{"parent_directory": "./my_folder", "is_file": false, "name": "123", "size_in_bytes": 0}, {"parent_directory": "./my_folder/123", "is_file": true, "name": "abcd.py", "size_in_bytes": 0}, {"parent_directory": "./my_folder/123", "is_file": true, "name": "122", "size_in_bytes": 0}]

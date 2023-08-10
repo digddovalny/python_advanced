@@ -1,0 +1,4 @@
+parent_directory,is_file,name,size_in_bytes
+./my_folder,False,123,0
+./my_folder/123,True,abcd.py,0
+./my_folder/123,True,122,0
